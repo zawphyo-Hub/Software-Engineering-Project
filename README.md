@@ -1,5 +1,9 @@
-# Software-Engineering-Project (Oxford Brookes University)
+# Software-Engineering-Project (Oxford Brookes University) - Achieved: 84 marks
+As part of the Software Engineering module at Oxford Brookes University, a team of four students collaborated to develop the United Students Union (USU) system, a cloud-based student union management platform. Each team member was responsible for one subsystem, working together to build an integrated system supporting students, societies, student unions, and USU operators.
 
+**Note:** This module focuses on software engineering processes and system design rather than implementation. Therefore, the project primarily consists of professional software engineering artefacts such as UML diagrams, architectural designs, design specifications, and test plans.
+
+# Subsystem - Union Officer
 ## Usecase Diagram
 <img width="957" height="1120" alt="Union_Usecase" src="https://github.com/user-attachments/assets/6af00d58-1032-4356-a20e-ec1b766309d5" />
 
